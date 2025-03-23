@@ -64,3 +64,4 @@ __pycache__/
 *.pyd
 *.pyw
 *.pyz
+.qodo

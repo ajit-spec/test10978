@@ -1,5 +1,9 @@
 # MEAN Stack Application
 
+<p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="200"/>
+</p>
+
 ## Overview
 
 This is a MEAN stack application, which uses MongoDB, Express.js, Angular, and Node.js to create a full-stack web application.
