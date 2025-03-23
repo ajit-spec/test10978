@@ -51,6 +51,12 @@ typings/
 /temp
 .qodo/
 
+rust-analyzer/
+
+# Rust
+target/
+
+
 # Python
 __pycache__/
 *.pyc
